@@ -9,4 +9,9 @@
     <img height="20" src="https://img.shields.io/github/followers/Keisuke-Toku-2000?label=follow&logo=github&style=flat" />
   </a>
  </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keisuke-Toku-2000&count_private=true)
+<a href="https://github.com/Keisuke-Toku-2000/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keisuke-Toku-2000&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Keisuke-Toku-2000/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Keisuke-Toku-2000&repo=convoychat" />
+</a>
