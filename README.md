@@ -1,1 +1,4 @@
-![Metrics](https://metrics.lecoq.io/Keisuke-Toku-2000?template=terminal&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTokyo)
+<p align="left"> 
+  <a href="https://github.com/Keisuke-Toku-2000/Keisuke-Toku-2000/">
+    <img src="https://komarev.com/ghpvc/?username=Keisuke-Toku-2000" alt="Keisuke-Toku-2000" />
+  </a>
