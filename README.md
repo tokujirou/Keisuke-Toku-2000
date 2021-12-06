@@ -14,6 +14,9 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keisuke-Toku-2000&count_private=true&show_icons=true&theme=cobalt)
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keisuke-Toku-2000)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 </div>
 
 
