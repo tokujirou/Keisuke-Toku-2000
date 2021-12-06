@@ -12,7 +12,7 @@
  
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keisuke-Toku-2000&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keisuke-Toku-2000&count_private=true&show_icons=true&theme=cobalt)
   
 </div>
 
